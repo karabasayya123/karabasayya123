@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivaraju M</h1>
+<h1 align="center">Hi 👋, I'm Karabasayya Hiremath</h1>
 <h3 align="center">🚀 Java Full-Stack Developer | 💻 Spring Boot + React Enthusiast | 🌱 Passionate about Real-Time Applications</h3>
 
 ---
@@ -14,7 +14,7 @@
 - 👨‍🎓 BE in Computer Science – VTU (Government Engineering College, Chamarajanagar)
 - 🧑‍💻 Hands-on experience with Java, Spring Boot, React, MySQL, HTML, CSS, JS
 - 🎯 Focused on solving real-world problems through scalable applications
-- 📫 Email: [shivarajushivu230@gmail.com](mailto:shivarajushivu230@gmail.com)
+- 📫 Email: [karabasayyahireamath697@gmail.com](mailto:karabasayyahiremath697@gmail.com)
 
 ---
 
@@ -48,35 +48,9 @@
 
 ---
 
-### 📝 [ToDo List App](https://github.com/shivu12339/ToDoListApp)
-> A simple and elegant To-Do List Web App to manage daily tasks.
-
-*Tech Stack:* HTML, CSS, JavaScript  
-*Features:* Add/Delete Tasks, LocalStorage, Responsive Design, Interactive UI
-
----
-
-### 📚 [Online Book Store](https://github.com/shivu12339/Online-Book-Store)
-> Java backend system to manage book inventory, categories, and customer orders.
-
-*Tech Stack:* Java, JSP/Servlet, MySQL, JDBC  
-*Features:* Book Listings, Cart Management, Order Processing, Admin Portal
-
----
-
-### 🔊 [Text to Speech Converter](https://github.com/shivu12339/Text-to-Speech)
-> Web-based tool to convert text input into spoken audio.
-
-*Tech Stack:* HTML, CSS, JavaScript  
-*Features:* Instant TTS with Web Speech API, Clean UI, Mobile-Friendly
-
----
-
 ## 🧾 Certifications
 
-✅ Java, DBMS, OOPS, NoSQL – Infosys Springboard  
-✅ Agile, Scrum, DSA using Java – Infosys Springboard  
-✅ Communication, Presentation, GD Skills – TCS iON Career Edge
+✅ Java, DBMS, OOPS, NoSQL – Jspiders 
 
 ---
 
@@ -97,13 +71,13 @@
 
 - 🔗 LinkedIn: [linkedin.com/in/shivarajum1](https://www.linkedin.com/in/shivarajum1)
 - 💻 GitHub: [github.com/shivu12339](https://github.com/shivu12339)
-- 📬 Email: [shivarajushivu230@gmail.com](mailto:shivarajushivu230@gmail.com)
+- 📬 Email: [karabasayyahiremath697@gmail.com](mailto:karabasayyahiremath697@gmail.com)
 
 ---
 
 ## ✨ Quote to Live By
 
-> 💡 "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
+> 💡 "Greatness is not built in a single victory, but in the consistency to rise stronger after every fall."
 
 ---
 
