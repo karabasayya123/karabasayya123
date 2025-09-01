@@ -69,8 +69,8 @@
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/shivarajum1](https://www.linkedin.com/in/shivarajum1)
-- 💻 GitHub: [github.com/shivu12339](https://github.com/shivu12339)
+- 🔗 LinkedIn: [linkedin.com/in/karabasayya-hiremath](https://www.linkedin.com/in/karabasayya-hiremath)
+- 💻 GitHub: [github.com/karabasayya123](https://github.com/karabasayya123)
 - 📬 Email: [karabasayyahiremath697@gmail.com](mailto:karabasayyahiremath697@gmail.com)
 
 ---
