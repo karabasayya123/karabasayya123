@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi👋,I'm Karabasayya Hiremath
 
 <!--
 **karabasayya123/karabasayya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🚀 Java Full-Stack Developer | 💻 Spring Boot + React Enthusiast | 🌱 Passionate about Real-Time Applications
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
