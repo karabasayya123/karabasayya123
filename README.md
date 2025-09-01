@@ -1,4 +1,4 @@
-## Hi👋,I'm Karabasayya Hiremath
+            ## Hi👋,I'm Karabasayya Hiremath
 
 <!--
 **karabasayya123/karabasayya123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🚀 Java Full-Stack Developer | 💻 Spring Boot + React Enthusiast | 🌱 Passionate about Real-Time Applications
+
+##🌟 About Me
+-👨‍🎓 BE in Computer Science – VTU (Government Engineering College, Chamarajanagar)
+-🧑‍💻 Hands-on experience with Java, Spring Boot, React, MySQL, HTML, CSS, JS
+🎯 Focused on solving real-world problems through scalable applications
+-📫 Email: karabasayyahiremath697@gmail.com
